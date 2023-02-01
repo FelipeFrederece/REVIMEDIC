@@ -10,7 +10,7 @@ def main():
         "${EMPLOEE_NAME}": "Example Name",
         "${EMPLOEE_TITLE}": "Software Engineer",
         "${EMPLOEE_ID}": "302929393",
-        "${EMPLOEE_ADDRESS}": "דרך השלום מנחם בגין דוגמא",
+        "${EMPLOEE_ADDRESS}": "xxxxxxxxxxxxwwwwwwwww",
         "${EMPLOEE_PHONE}": "+972-5056000000",
         "${EMPLOEE_EMAIL}": "example@example.com",
         "${START_DATE}": "03 Jan, 2021",
